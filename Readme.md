@@ -7,6 +7,7 @@
 
 [CALL FOR MAINTAINERS](https://github.com/bithavoc/express-winston/issues/192)
 
+
 ## Installation
 
     npm install winston express-winston
